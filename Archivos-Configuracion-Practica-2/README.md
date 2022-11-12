@@ -1,4 +1,4 @@
-### Entrega del trabajo practico #1
+### Entrega del trabajo practico #2
 ## ¿Qué se realizo?
 1. Crear un nuevo ambiente virtual llamado venv-decouple
 2. Instalar Decouple
