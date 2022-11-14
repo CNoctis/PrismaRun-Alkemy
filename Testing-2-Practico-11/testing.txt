@@ -1,0 +1,16 @@
+
+*************** TESTING ***************
+11/14/2022, 04:14:31
+test_dividir (__main__.TestCalculadora)
+Testea la función dividir ... ok
+test_multiplicar (__main__.TestCalculadora)
+Testea la función multiplicar ... ok
+test_restar (__main__.TestCalculadora)
+Testea la función restar ... ok
+test_sumar (__main__.TestCalculadora)
+Testea la función suma ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.003s
+
+OK
