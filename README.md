@@ -7,8 +7,8 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Entornos-Virtuales-Practic
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Archivos-Configuracion-Practica-2
 3. Loguear Eventos 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica-3
-4. Loguear Eventos 2 (En proceso)
-
+4. Loguear Eventos 2 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica-4
 5. Logear Eventos Airflow (En proceso)
 
 6. Comentarios en Python (En proceso)
@@ -21,3 +21,6 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica
 
 10. Testing 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-10
+
+11. Testing 2 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-11
