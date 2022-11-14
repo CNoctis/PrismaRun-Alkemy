@@ -38,3 +38,8 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-2-Practico-11
 
 13. DB-SQL-DDL (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DDL-Practico-13
+
+14. DB-SQL-DML (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DML-Practico-14
+
+15. Teradata-Teórico (Sin practico)
