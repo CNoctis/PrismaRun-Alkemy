@@ -20,9 +20,10 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-Airflow-Pr
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Comentarios-Python-Practica-6
 
 7. Docstrings (Realizado)
-https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Docstrings-Practica-6
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Docstrings-Practica-7
 
-8. Comentarios en Python - PEP8 y Flake8 (En proceso)
+8. Comentarios en Python - PEP8 y Flake8 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/PEP8-Flake8-Practica-8
 
 9. Manejo de excepciones (En proceso)
 
