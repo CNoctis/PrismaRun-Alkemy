@@ -11,7 +11,7 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Archivos-Configuracion-Pra
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica-3
 
 4. Loguear Eventos 2 (Realizado)
-https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica-4
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-2-Practica-4
 
 5. Logear Eventos Airflow (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-Airflow-Practica-5
