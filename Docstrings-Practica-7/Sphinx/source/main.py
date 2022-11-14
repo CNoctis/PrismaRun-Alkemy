@@ -4,11 +4,11 @@ from datetime import date
 class empleados:
     """
     Employee class properties
-    :param nombre: Teacher's name
-    :param apellido: Teacher's last name
+    :param nombre: name
+    :param apellido: name
     :param fecha_nacimiento: Date of Birth
-    :param nro_dni: Document number
-    """
+    :param nro_dni: Document number"""
+    
     def __init__(self, nombre: str, apellido: str,
                  fecha_nacimiento: str, nro_dni: int) -> None:
         self.nombre = nombre
@@ -19,7 +19,7 @@ class empleados:
     def calculate_ege(self) -> int:
         """
         Calculate age based on date of birth
-        :return: Teacher's age
+        :return: age
         :rtype: int"""
         # Division of the date in day, month, year
         date_birth = self.fecha_nacimiento.split('/')
@@ -35,8 +35,7 @@ class empleados:
     def introduce(self) -> str:
         """Make an employee presentation
         :return: Introduce myself
-        :rtype: str
-        """
+        :rtype: str"""
 
         return f"""Hola, soy {self.nombre} {self.apellido}.
         Nací el {self.fecha_nacimiento} y DNI es {self.nro_dni}"""
