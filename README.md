@@ -21,3 +21,6 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica
 
 10. Testing 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-10
+
+11. Testing 2 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-11
