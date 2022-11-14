@@ -16,7 +16,8 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-1-Practica
 5. Logear Eventos Airflow (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Loguear-Eventos-Airflow-Practica-5
 
-6. Comentarios en Python (En proceso)
+6. Comentarios en Python (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Comentarios-Python-Practica-6
 
 7. Docstrings (En proceso)
 
