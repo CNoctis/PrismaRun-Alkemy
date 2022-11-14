@@ -32,4 +32,9 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Manejo-Excepciones-Practic
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-10
 
 11. Testing 2 (Realizado)
-https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-1-Practico-11
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Testing-2-Practico-11
+
+12. CI - CD - Teórico (Sin practico)
+
+13. DB-SQL-DDL (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DDL-Practico-13
