@@ -43,3 +43,6 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DDL-Practico-13
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DML-Practico-14
 
 15. Teradata-Teórico (Sin practico)
+
+19. Datos con Pandas 1 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Datos-Pandas-1-Practico-19
