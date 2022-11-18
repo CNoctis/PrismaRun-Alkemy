@@ -1,0 +1,5 @@
+greenlet==2.0.1
+psycopg2-binary==2.9.5
+python-decouple==3.6
+python-dotenv==0.21.0
+SQLAlchemy==1.4.44

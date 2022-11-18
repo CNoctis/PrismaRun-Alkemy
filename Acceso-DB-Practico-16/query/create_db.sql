@@ -1,1 +1,1 @@
-CREATE DATABASE Client;
+CREATE DATABASE db_client;
