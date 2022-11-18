@@ -47,9 +47,16 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-SQL-DML-Practico-14
 16. Acceso-Basesdatos-Practico-16 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Acceso-DB-Practico-16
 
-17. Acceso-Origenes-Datos-Practico-17 (En proceso)
+17. Acceso-Origenes-Datos-Practico-17 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Acceso-Otros-Datos-Practico-17
 
 18. DB-NO-SQL-Practico-18 (En proceso)
 
 19. Datos con Pandas 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Datos-Pandas-1-Practico-19
+
+20. Datos con Pandas 2 (En proceso)
+
+21. Fundamentos de Hadoop/Spark/Hive (Sin practico)
+
+22. Fundamentos Function as a Service (Lambda) (Sin practico)
