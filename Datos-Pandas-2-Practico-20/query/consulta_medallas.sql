@@ -1,0 +1,1 @@
+SELECT * FROM medals LIMIT 20
