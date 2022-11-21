@@ -55,7 +55,8 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Acceso-Otros-Datos-Practic
 19. Datos con Pandas 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Datos-Pandas-1-Practico-19
 
-20. Datos con Pandas 2 (En proceso)
+20. Datos con Pandas 2 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Datos-Pandas-2-Practico-20
 
 21. Fundamentos de Hadoop/Spark/Hive (Sin practico)
 
