@@ -50,7 +50,8 @@ https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Acceso-DB-Practico-16
 17. Acceso-Origenes-Datos-Practico-17 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Acceso-Otros-Datos-Practico-17
 
-18. DB-NO-SQL-Practico-18 (En proceso)
+18. DB-NO-SQL-Practico-18 (Realizado)
+https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/DB-NoSQL-Practico-18
 
 19. Datos con Pandas 1 (Realizado)
 https://github.com/CNoctis/PrismaRun-Alkemy/tree/main/Datos-Pandas-1-Practico-19
